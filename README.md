@@ -8,12 +8,10 @@ A small game of recursion; 一个简单的小代码实现递归
   
   例：
   4 4
-  xxxx
-  
+  
+  xxxx
   xx x
-  
   xx x
-  
   xxxx
   
   2 2 4 2
