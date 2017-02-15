@@ -7,15 +7,12 @@ A small game of recursion; 一个简单的小代码实现递归
   两个卡片之间的最短所需线段数，并非所经过的格子个数，而是连接两个卡片之间所需线段即路径转弯次数。
   
   例：
-  4 4
+  4 4 
   
-  xxxx
-  
-  xx x
-  
-  xx x
-  
-  xxxx
+  xxxx 
+  xx x 
+  xx x  
+  xxxx 
   
   2 2 4 2
   output: impossible
